@@ -1,0 +1,5 @@
+{
+  "name": "EduMap Transit",
+  "description": "GIS-based school mapping and transit recommendation system for students and parents.",
+  "requestFramePermissions": ["geolocation"]
+}

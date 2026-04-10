@@ -1,0 +1,712 @@
+[
+  {
+    "id": "SMAN1",
+    "nama": "SMA Negeri 1 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.1647, "lng": 106.8370 },
+    "alamat": "Jl. Budi Utomo No.7, Sawah Besar",
+    "angkutan_umum": [
+      { "line": "TransJakarta Koridor 1", "halte_terdekat": "Halte Budi Utomo", "jarak_ke_lokasi": "200m" }
+    ]
+  },
+  {
+    "id": "SMAN2",
+    "nama": "SMA Negeri 2 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.1558, "lng": 106.8153 },
+    "alamat": "Jl. Gajah Mada No.175, Krukut",
+    "angkutan_umum": [
+      { "line": "TransJakarta Koridor 1", "halte_terdekat": "Halte Olimo", "jarak_ke_lokasi": "200m" }
+    ]
+  },
+  {
+    "id": "SMAN4",
+    "nama": "SMA Negeri 4 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.1754, "lng": 106.8241 },
+    "alamat": "Jl. Batu No.3, Gambir",
+    "angkutan_umum": [
+      { "line": "TransJakarta Koridor 2", "halte_terdekat": "Halte Gambir", "jarak_ke_lokasi": "500m" }
+    ]
+  },
+  {
+    "id": "SMAN6",
+    "nama": "SMA Negeri 6 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.2444, "lng": 106.7981 },
+    "alamat": "Jl. Bulungan No.1, Kebayoran Baru",
+    "angkutan_umum": [
+      { "line": "MRT Jakarta", "halte_terdekat": "Stasiun Blok M", "jarak_ke_lokasi": "300m" }
+    ]
+  },
+  {
+    "id": "SMAN8",
+    "nama": "SMA Negeri 8 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.2244, "lng": 106.8617 },
+    "alamat": "Jl. Taman Bukit Duri No.2, Tebet",
+    "angkutan_umum": [
+      { "line": "TransJakarta 5N", "halte_terdekat": "Halte Bukit Duri", "jarak_ke_lokasi": "300m" }
+    ]
+  },
+  {
+    "id": "SMAN9",
+    "nama": "SMA Negeri 9 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.2614, "lng": 106.8947 },
+    "alamat": "Jl. Halim Perdanakusuma, Makasar",
+    "angkutan_umum": [
+      { "line": "TransJakarta 7P", "halte_terdekat": "Halte Halim", "jarak_ke_lokasi": "400m" }
+    ]
+  },
+  {
+    "id": "SMAN12",
+    "nama": "SMA Negeri 12 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.2114, "lng": 106.9147 },
+    "alamat": "Jl. Pertanian No.1, Klender",
+    "angkutan_umum": [
+      { "line": "TransJakarta 11V", "halte_terdekat": "Halte Klender", "jarak_ke_lokasi": "300m" }
+    ]
+  },
+  {
+    "id": "SMAN13",
+    "nama": "SMA Negeri 13 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.1214, "lng": 106.8847 },
+    "alamat": "Jl. Seroja No.1, Koja",
+    "angkutan_umum": [
+      { "line": "TransJakarta 10", "halte_terdekat": "Halte Plumpang", "jarak_ke_lokasi": "600m" }
+    ]
+  },
+  {
+    "id": "SMAN14",
+    "nama": "SMA Negeri 14 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.2614, "lng": 106.8647 },
+    "alamat": "Jl. SMA 14, Cililitan",
+    "angkutan_umum": [
+      { "line": "TransJakarta 7B", "halte_terdekat": "Halte Cililitan", "jarak_ke_lokasi": "200m" }
+    ]
+  },
+  {
+    "id": "SMAN21",
+    "nama": "SMA Negeri 21 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.1853, "lng": 106.8826 },
+    "alamat": "Jl. Tanah Mas Raya No.1, Kayu Putih",
+    "angkutan_umum": [
+      { "line": "LRT Jakarta", "halte_terdekat": "Stasiun Pulomas", "jarak_ke_lokasi": "500m" }
+    ]
+  },
+  {
+    "id": "SMAN28",
+    "nama": "SMA Negeri 28 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.2847, "lng": 106.8272 },
+    "alamat": "Jl. Ragunan No.7, Pasar Minggu",
+    "angkutan_umum": [
+      { "line": "TransJakarta 6U", "halte_terdekat": "Halte SMAN 28", "jarak_ke_lokasi": "50m" }
+    ]
+  },
+  {
+    "id": "SMAN31",
+    "nama": "SMA Negeri 31 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.1914, "lng": 106.8647 },
+    "alamat": "Jl. Kayu Manis Timur No.17, Matraman",
+    "angkutan_umum": [
+      { "line": "TransJakarta 4D", "halte_terdekat": "Halte Matraman", "jarak_ke_lokasi": "300m" }
+    ]
+  },
+  {
+    "id": "SMAN34",
+    "nama": "SMA Negeri 34 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.3039, "lng": 106.7986 },
+    "alamat": "Jl. Margasatwa No.1, Pondok Labu",
+    "angkutan_umum": [
+      { "line": "TransJakarta 1E", "halte_terdekat": "Halte Pondok Labu", "jarak_ke_lokasi": "200m" }
+    ]
+  },
+  {
+    "id": "SMAN39",
+    "nama": "SMA Negeri 39 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.3472, "lng": 106.8614 },
+    "alamat": "Jl. Pendidikan No.1, Cijantung",
+    "angkutan_umum": [
+      { "line": "TransJakarta 7B", "halte_terdekat": "Halte Cijantung", "jarak_ke_lokasi": "400m" }
+    ]
+  },
+  {
+    "id": "SMAN44",
+    "nama": "SMA Negeri 44 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.2214, "lng": 106.9347 },
+    "alamat": "Jl. Delima IV, Duren Sawit",
+    "angkutan_umum": [
+      { "line": "TransJakarta 11V", "halte_terdekat": "Halte Duren Sawit", "jarak_ke_lokasi": "300m" }
+    ]
+  },
+  {
+    "id": "SMAN48",
+    "nama": "SMA Negeri 48 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.2911, "lng": 106.8825 },
+    "alamat": "Jl. Pinang Ranti II, Makasar",
+    "angkutan_umum": [
+      { "line": "TransJakarta Koridor 9", "halte_terdekat": "Halte Pinang Ranti", "jarak_ke_lokasi": "300m" }
+    ]
+  },
+  {
+    "id": "SMAN50",
+    "nama": "SMA Negeri 50 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.2114, "lng": 106.8747 },
+    "alamat": "Jl. Prumpung Tengah, Jatinegara",
+    "angkutan_umum": [
+      { "line": "TransJakarta 10", "halte_terdekat": "Halte Prumpung", "jarak_ke_lokasi": "400m" }
+    ]
+  },
+  {
+    "id": "SMAN54",
+    "nama": "SMA Negeri 54 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.2214, "lng": 106.8747 },
+    "alamat": "Jl. Jatinegara Timur IV, Jatinegara",
+    "angkutan_umum": [
+      { "line": "TransJakarta 5C", "halte_terdekat": "Halte Jatinegara", "jarak_ke_lokasi": "300m" }
+    ]
+  },
+  {
+    "id": "SMAN58",
+    "nama": "SMA Negeri 58 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.3314, "lng": 106.8647 },
+    "alamat": "Jl. Raya Ciracas No.2, Ciracas",
+    "angkutan_umum": [
+      { "line": "TransJakarta 7B", "halte_terdekat": "Halte Ciracas", "jarak_ke_lokasi": "200m" }
+    ]
+  },
+  {
+    "id": "SMAN59",
+    "nama": "SMA Negeri 59 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.2114, "lng": 106.9247 },
+    "alamat": "Jl. Bulak Timur No.10, Klender",
+    "angkutan_umum": [
+      { "line": "TransJakarta 11", "halte_terdekat": "Halte Klender", "jarak_ke_lokasi": "400m" }
+    ]
+  },
+  {
+    "id": "SMAN61",
+    "nama": "SMA Negeri 61 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.2253, "lng": 106.9147 },
+    "alamat": "Jl. Pahlawan Revolusi, Pondok Bambu",
+    "angkutan_umum": [
+      { "line": "TransJakarta 11V", "halte_terdekat": "Halte Pondok Bambu", "jarak_ke_lokasi": "200m" }
+    ]
+  },
+  {
+    "id": "SMAN62",
+    "nama": "SMA Negeri 62 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.3214, "lng": 106.8647 },
+    "alamat": "Jl. Raya Bogor Km.25, Ciracas",
+    "angkutan_umum": [
+      { "line": "TransJakarta 7", "halte_terdekat": "Halte Ciracas", "jarak_ke_lokasi": "300m" }
+    ]
+  },
+  {
+    "id": "SMAN64",
+    "nama": "SMA Negeri 64 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.3214, "lng": 106.9047 },
+    "alamat": "Jl. Raya Cipayung, Cipayung",
+    "angkutan_umum": [
+      { "line": "TransJakarta 7D", "halte_terdekat": "Halte Cipayung", "jarak_ke_lokasi": "400m" }
+    ]
+  },
+  {
+    "id": "SMAN67",
+    "nama": "SMA Negeri 67 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.2714, "lng": 106.8847 },
+    "alamat": "Jl. Squadron, Halim Perdanakusuma",
+    "angkutan_umum": [
+      { "line": "TransJakarta 7P", "halte_terdekat": "Halte Halim", "jarak_ke_lokasi": "500m" }
+    ]
+  },
+  {
+    "id": "SMAN68",
+    "nama": "SMA Negeri 68 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.1925, "lng": 106.8481 },
+    "alamat": "Jl. Salemba Raya No.18, Senen",
+    "angkutan_umum": [
+      { "line": "TransJakarta Koridor 5", "halte_terdekat": "Halte Salemba UI", "jarak_ke_lokasi": "150m" }
+    ]
+  },
+  {
+    "id": "SMAN71",
+    "nama": "SMA Negeri 71 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.2314, "lng": 106.9347 },
+    "alamat": "Jl. Kavling TNI AL, Duren Sawit",
+    "angkutan_umum": [
+      { "line": "TransJakarta 11V", "halte_terdekat": "Halte Duren Sawit", "jarak_ke_lokasi": "400m" }
+    ]
+  },
+  {
+    "id": "SMAN78",
+    "nama": "SMA Negeri 78 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.1911, "lng": 106.7822 },
+    "alamat": "Jl. Bhakti IV No.1, Palmerah",
+    "angkutan_umum": [
+      { "line": "TransJakarta 8K", "halte_terdekat": "Halte Kemanggisan", "jarak_ke_lokasi": "400m" }
+    ]
+  },
+  {
+    "id": "SMAN81",
+    "nama": "SMA Negeri 81 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.2514, "lng": 106.9247 },
+    "alamat": "Jl. Komplek Kodam Jaya, Makasar",
+    "angkutan_umum": [
+      { "line": "TransJakarta 7P", "halte_terdekat": "Halte Kodam", "jarak_ke_lokasi": "300m" }
+    ]
+  },
+  {
+    "id": "SMAN89",
+    "nama": "SMA Negeri 89 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.1814, "lng": 106.9547 },
+    "alamat": "Jl. Gardenia, Cakung",
+    "angkutan_umum": [
+      { "line": "TransJakarta 2B", "halte_terdekat": "Halte Cakung", "jarak_ke_lokasi": "500m" }
+    ]
+  },
+  {
+    "id": "SMAN91",
+    "nama": "SMA Negeri 91 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.2314, "lng": 106.9447 },
+    "alamat": "Jl. Pondok Kelapa Raya, Duren Sawit",
+    "angkutan_umum": [
+      { "line": "TransJakarta 11Q", "halte_terdekat": "Halte Pondok Kelapa", "jarak_ke_lokasi": "300m" }
+    ]
+  },
+  {
+    "id": "SMAN98",
+    "nama": "SMA Negeri 98 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.3414, "lng": 106.8547 },
+    "alamat": "Jl. TPU Kalisari, Pasar Rebo",
+    "angkutan_umum": [
+      { "line": "TransJakarta 7B", "halte_terdekat": "Halte Kalisari", "jarak_ke_lokasi": "400m" }
+    ]
+  },
+  {
+    "id": "SMAN99",
+    "nama": "SMA Negeri 99 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.3514, "lng": 106.8747 },
+    "alamat": "Jl. Cibubur II, Ciracas",
+    "angkutan_umum": [
+      { "line": "TransJakarta 7C", "halte_terdekat": "Halte Cibubur", "jarak_ke_lokasi": "300m" }
+    ]
+  },
+  {
+    "id": "SMAN102",
+    "nama": "SMA Negeri 102 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.1714, "lng": 106.9547 },
+    "alamat": "Jl. Kayu Tinggi, Cakung",
+    "angkutan_umum": [
+      { "line": "TransJakarta 2E", "halte_terdekat": "Halte Cakung", "jarak_ke_lokasi": "600m" }
+    ]
+  },
+  {
+    "id": "SMAN103",
+    "nama": "SMA Negeri 103 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.2214, "lng": 106.9447 },
+    "alamat": "Jl. Mawar Merah VI, Duren Sawit",
+    "angkutan_umum": [
+      { "line": "TransJakarta 11Q", "halte_terdekat": "Halte Duren Sawit", "jarak_ke_lokasi": "400m" }
+    ]
+  },
+  {
+    "id": "SMAN104",
+    "nama": "SMA Negeri 104 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.3214, "lng": 106.8547 },
+    "alamat": "Jl. SMA 104, Pasar Rebo",
+    "angkutan_umum": [
+      { "line": "TransJakarta 7", "halte_terdekat": "Halte Pasar Rebo", "jarak_ke_lokasi": "500m" }
+    ]
+  },
+  {
+    "id": "SMAN105",
+    "nama": "SMA Negeri 105 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.3414, "lng": 106.8747 },
+    "alamat": "Jl. Usman Effendi, Ciracas",
+    "angkutan_umum": [
+      { "line": "TransJakarta 7C", "halte_terdekat": "Halte Ciracas", "jarak_ke_lokasi": "400m" }
+    ]
+  },
+  {
+    "id": "SMAN106",
+    "nama": "SMA Negeri 106 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.3314, "lng": 106.8547 },
+    "alamat": "Jl. Haji Baping, Ciracas",
+    "angkutan_umum": [
+      { "line": "TransJakarta 7B", "halte_terdekat": "Halte Ciracas", "jarak_ke_lokasi": "300m" }
+    ]
+  },
+  {
+    "id": "SMAN107",
+    "nama": "SMA Negeri 107 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.1914, "lng": 106.9447 },
+    "alamat": "Jl. Raya Penggilingan, Cakung",
+    "angkutan_umum": [
+      { "line": "TransJakarta 11", "halte_terdekat": "Halte Penggilingan", "jarak_ke_lokasi": "400m" }
+    ]
+  },
+  {
+    "id": "SMAN109",
+    "nama": "SMA Negeri 109 Jakarta",
+    "tipe": "SMA",
+    "koordinat": { "lat": -6.3414, "lng": 106.8347 },
+    "alamat": "Jl. Lenteng Agung Raya, Jagakarsa",
+    "angkutan_umum": [
+      { "line": "KRL Commuter Line", "halte_terdekat": "Stasiun Lenteng Agung", "jarak_ke_lokasi": "500m" }
+    ]
+  },
+  {
+    "id": "SMKN1",
+    "nama": "SMK Negeri 1 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.1647, "lng": 106.8370 },
+    "alamat": "Jl. Budi Utomo No.7, Sawah Besar",
+    "angkutan_umum": [
+      { "line": "TransJakarta Koridor 1", "halte_terdekat": "Halte Budi Utomo", "jarak_ke_lokasi": "200m" }
+    ]
+  },
+  {
+    "id": "SMKN2",
+    "nama": "SMK Negeri 2 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.1611, "lng": 106.8153 },
+    "alamat": "Jl. Batu No.3, Gambir",
+    "angkutan_umum": [
+      { "line": "TransJakarta Koridor 2", "halte_terdekat": "Halte Gambir", "jarak_ke_lokasi": "500m" }
+    ]
+  },
+  {
+    "id": "SMKN4",
+    "nama": "SMK Negeri 4 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.1114, "lng": 106.9147 },
+    "alamat": "Jl. Rorotan VI, Cilincing",
+    "angkutan_umum": [
+      { "line": "TransJakarta 10A", "halte_terdekat": "Halte Rorotan", "jarak_ke_lokasi": "400m" }
+    ]
+  },
+  {
+    "id": "SMKN5",
+    "nama": "SMK Negeri 5 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.2014, "lng": 106.8647 },
+    "alamat": "Jl. Pisangan Baru Timur No.7, Matraman",
+    "angkutan_umum": [
+      { "line": "TransJakarta 4D", "halte_terdekat": "Halte Matraman", "jarak_ke_lokasi": "300m" }
+    ]
+  },
+  {
+    "id": "SMKN6",
+    "nama": "SMK Negeri 6 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.2414, "lng": 106.7981 },
+    "alamat": "Jl. Prof. Joko Sutono SH No.29",
+    "angkutan_umum": [
+      { "line": "MRT Jakarta", "halte_terdekat": "Stasiun Blok M", "jarak_ke_lokasi": "500m" }
+    ]
+  },
+  {
+    "id": "SMKN7",
+    "nama": "SMK Negeri 7 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.1914, "lng": 106.8947 },
+    "alamat": "Jl. Tenggiri No.1, Rawamangun",
+    "angkutan_umum": [
+      { "line": "TransJakarta 4", "halte_terdekat": "Halte Rawamangun", "jarak_ke_lokasi": "400m" }
+    ]
+  },
+  {
+    "id": "SMKN8",
+    "nama": "SMK Negeri 8 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.2747, "lng": 106.8272 },
+    "alamat": "Jl. Pejaten Raya, Pasar Minggu",
+    "angkutan_umum": [
+      { "line": "TransJakarta 6B", "halte_terdekat": "Halte Pejaten", "jarak_ke_lokasi": "300m" }
+    ]
+  },
+  {
+    "id": "SMKN10",
+    "nama": "SMK Negeri 10 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.2514, "lng": 106.8714 },
+    "alamat": "Jl. Mayjen Sutoyo, Cawang",
+    "angkutan_umum": [
+      { "line": "TransJakarta Koridor 7", "halte_terdekat": "Halte Cawang UKI", "jarak_ke_lokasi": "400m" }
+    ]
+  },
+  {
+    "id": "SMKN12",
+    "nama": "SMK Negeri 12 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.1214, "lng": 106.8947 },
+    "alamat": "Jl. Kebon Bawang XV, Tanjung Priok",
+    "angkutan_umum": [
+      { "line": "TransJakarta Koridor 10", "halte_terdekat": "Halte Permai Koja", "jarak_ke_lokasi": "300m" }
+    ]
+  },
+  {
+    "id": "SMKN14",
+    "nama": "SMK Negeri 14 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.1814, "lng": 106.8447 },
+    "alamat": "Jl. Percetakan Negara, Johar Baru",
+    "angkutan_umum": [
+      { "line": "TransJakarta 4D", "halte_terdekat": "Halte Percetakan Negara", "jarak_ke_lokasi": "200m" }
+    ]
+  },
+  {
+    "id": "SMKN20",
+    "nama": "SMK Negeri 20 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.2814, "lng": 106.8047 },
+    "alamat": "Jl. Melati No.24, Cilandak",
+    "angkutan_umum": [
+      { "line": "MRT Jakarta", "halte_terdekat": "Stasiun Fatmawati", "jarak_ke_lokasi": "1km" }
+    ]
+  },
+  {
+    "id": "SMKN22",
+    "nama": "SMK Negeri 22 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.2814, "lng": 106.8614 },
+    "alamat": "Jl. Condet Raya, Kramat Jati",
+    "angkutan_umum": [
+      { "line": "TransJakarta 7B", "halte_terdekat": "Halte Condet", "jarak_ke_lokasi": "300m" }
+    ]
+  },
+  {
+    "id": "SMKN24",
+    "nama": "SMK Negeri 24 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.3314, "lng": 106.9047 },
+    "alamat": "Jl. Bambu Hitam, Cipayung",
+    "angkutan_umum": [
+      { "line": "TransJakarta 7D", "halte_terdekat": "Halte Cipayung", "jarak_ke_lokasi": "500m" }
+    ]
+  },
+  {
+    "id": "SMKN26",
+    "nama": "SMK Negeri 26 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.1953, "lng": 106.8826 },
+    "alamat": "Jl. Balai Pustaka Baru No.1, Rawamangun",
+    "angkutan_umum": [
+      { "line": "TransJakarta Koridor 4", "halte_terdekat": "Halte Rawamangun", "jarak_ke_lokasi": "300m" }
+    ]
+  },
+  {
+    "id": "SMKN36",
+    "nama": "SMK Negeri 36 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.1014, "lng": 106.9347 },
+    "alamat": "Jl. Akses Rusun Marunda, Cilincing",
+    "angkutan_umum": [
+      { "line": "TransJakarta 12F", "halte_terdekat": "Halte Marunda", "jarak_ke_lokasi": "500m" }
+    ]
+  },
+  {
+    "id": "SMKN39",
+    "nama": "SMK Negeri 39 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.1614, "lng": 106.8647 },
+    "alamat": "Jl. Cempaka Baru VII No.24, Kemayoran",
+    "angkutan_umum": [
+      { "line": "TransJakarta 2", "halte_terdekat": "Halte Cempaka Baru", "jarak_ke_lokasi": "400m" }
+    ]
+  },
+  {
+    "id": "SMKN40",
+    "nama": "SMK Negeri 40 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.2114, "lng": 106.9447 },
+    "alamat": "Jl. Sawo Kecik Raya, Pulogebang",
+    "angkutan_umum": [
+      { "line": "TransJakarta 11", "halte_terdekat": "Halte Pulogebang", "jarak_ke_lokasi": "500m" }
+    ]
+  },
+  {
+    "id": "SMKN46",
+    "nama": "SMK Negeri 46 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.2214, "lng": 106.8847 },
+    "alamat": "Jl. Cipinang Pulo No.19, Jatinegara",
+    "angkutan_umum": [
+      { "line": "TransJakarta 10", "halte_terdekat": "Halte Cipinang", "jarak_ke_lokasi": "300m" }
+    ]
+  },
+  {
+    "id": "SMKN48",
+    "nama": "SMK Negeri 48 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.2314, "lng": 106.9247 },
+    "alamat": "Jl. Radin Inten II, Duren Sawit",
+    "angkutan_umum": [
+      { "line": "TransJakarta 11V", "halte_terdekat": "Halte Radin Inten", "jarak_ke_lokasi": "200m" }
+    ]
+  },
+  {
+    "id": "SMKN50",
+    "nama": "SMK Negeri 50 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.2314, "lng": 106.8947 },
+    "alamat": "Jl. Cipinang Muara I, Jatinegara",
+    "angkutan_umum": [
+      { "line": "TransJakarta 10", "halte_terdekat": "Halte Cipinang", "jarak_ke_lokasi": "400m" }
+    ]
+  },
+  {
+    "id": "SMKN51",
+    "nama": "SMK Negeri 51 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.3114, "lng": 106.8947 },
+    "alamat": "Jl. Swadaya II, Bambu Apus",
+    "angkutan_umum": [
+      { "line": "TransJakarta 7D", "halte_terdekat": "Halte Bambu Apus", "jarak_ke_lokasi": "400m" }
+    ]
+  },
+  {
+    "id": "SMKN52",
+    "nama": "SMK Negeri 52 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.3614, "lng": 106.8847 },
+    "alamat": "Jl. Taruna Jaya, Cibubur",
+    "angkutan_umum": [
+      { "line": "TransJakarta 7C", "halte_terdekat": "Halte Cibubur", "jarak_ke_lokasi": "500m" }
+    ]
+  },
+  {
+    "id": "SMKN53",
+    "nama": "SMK Negeri 53 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.1414, "lng": 106.7247 },
+    "alamat": "Jl. Flamboyan No.53, Cengkareng",
+    "angkutan_umum": [
+      { "line": "TransJakarta 3", "halte_terdekat": "Halte Cengkareng", "jarak_ke_lokasi": "600m" }
+    ]
+  },
+  {
+    "id": "SMKN57",
+    "nama": "SMK Negeri 57 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.2914, "lng": 106.8247 },
+    "alamat": "Jl. Margasatwa No.38, Pasar Minggu",
+    "angkutan_umum": [
+      { "line": "TransJakarta Koridor 6", "halte_terdekat": "Halte SMK 57", "jarak_ke_lokasi": "50m" }
+    ]
+  },
+  {
+    "id": "SMKN58",
+    "nama": "SMK Negeri 58 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.3314, "lng": 106.8647 },
+    "alamat": "Jl. SMAN 58, Ciracas",
+    "angkutan_umum": [
+      { "line": "TransJakarta 7B", "halte_terdekat": "Halte Ciracas", "jarak_ke_lokasi": "400m" }
+    ]
+  },
+  {
+    "id": "SMKN62",
+    "nama": "SMK Negeri 62 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.3214, "lng": 106.8347 },
+    "alamat": "Jl. Camat Gabun, Lenteng Agung",
+    "angkutan_umum": [
+      { "line": "KRL Commuter Line", "halte_terdekat": "Stasiun Lenteng Agung", "jarak_ke_lokasi": "600m" }
+    ]
+  },
+  {
+    "id": "SMKN63",
+    "nama": "SMK Negeri 63 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.3514, "lng": 106.8047 },
+    "alamat": "Jl. Aselih No.29, Jagakarsa",
+    "angkutan_umum": [
+      { "line": "TransJakarta 1E", "halte_terdekat": "Halte Jagakarsa", "jarak_ke_lokasi": "800m" }
+    ]
+  },
+  {
+    "id": "SMKN64",
+    "nama": "SMK Negeri 64 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.2614, "lng": 106.8747 },
+    "alamat": "Jl. Jaani Nasir, Cawang",
+    "angkutan_umum": [
+      { "line": "TransJakarta 7", "halte_terdekat": "Halte Cawang", "jarak_ke_lokasi": "400m" }
+    ]
+  },
+  {
+    "id": "SMKN65",
+    "nama": "SMK Negeri 65 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.2814, "lng": 106.8447 },
+    "alamat": "Jl. Komplek Pertanian, Pasar Minggu",
+    "angkutan_umum": [
+      { "line": "TransJakarta 6B", "halte_terdekat": "Halte Pasar Minggu", "jarak_ke_lokasi": "500m" }
+    ]
+  },
+  {
+    "id": "SMKN66",
+    "nama": "SMK Negeri 66 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.3114, "lng": 106.9147 },
+    "alamat": "Jl. Binamarga, Ceger",
+    "angkutan_umum": [
+      { "line": "TransJakarta 7D", "halte_terdekat": "Halte Ceger", "jarak_ke_lokasi": "300m" }
+    ]
+  },
+  {
+    "id": "SMKN69",
+    "nama": "SMK Negeri 69 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.1014, "lng": 106.9547 },
+    "alamat": "Jl. Marunda Baru, Cilincing",
+    "angkutan_umum": [
+      { "line": "TransJakarta 12F", "halte_terdekat": "Halte Marunda", "jarak_ke_lokasi": "600m" }
+    ]
+  },
+  {
+    "id": "SMKN71",
+    "nama": "SMK Negeri 71 Jakarta",
+    "tipe": "SMK",
+    "koordinat": { "lat": -6.1914, "lng": 106.9347 },
+    "alamat": "Jl. Dr. KRT Radjiman Widyodiningrat, Cakung",
+    "angkutan_umum": [
+      { "line": "TransJakarta 11", "halte_terdekat": "Halte Cakung", "jarak_ke_lokasi": "400m" }
+    ]
+  }
+]
