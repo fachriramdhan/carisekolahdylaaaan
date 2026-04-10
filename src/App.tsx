@@ -72,8 +72,8 @@ export default function App() {
             <SchoolIcon className="text-white w-5 h-5" />
           </div>
           <div>
-            <h1 className="text-lg font-bold text-slate-900 leading-none">EduMap Transit</h1>
-            <p className="text-[10px] text-slate-500 uppercase tracking-wider font-semibold mt-1">Sistem Informasi Geografis Sekolah</p>
+            <h1 className="text-lg font-bold text-slate-900 leading-none">cari dilaaan</h1>
+            <p className="text-[10px] text-slate-500 uppercase tracking-wider font-semibold mt-1">cari sekolahnya</p>
           </div>
         </div>
         <div className="flex items-center gap-3">
